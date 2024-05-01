@@ -2,9 +2,8 @@
 <h1 align="center">Bienvenido a "Real Madrid Library"</h1>
 </p>
 
-<p align="center">
+
 ![](https://raw.githubusercontent.com/NathanaelPerez/prueba/main/Logo_Real_Madrid.svg)
-</p>
 
 
 
