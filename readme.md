@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-![](https://NathanaelPerez/prueba/Logo_Real_Madrid.svg)
+![](https://NathanaelPerez/prueba/main/Logo_Real_Madrid.svg)
 </p>
 
 
