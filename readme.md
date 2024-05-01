@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  
-
 ![](https://raw.githubusercontent.com/NathanaelPerez/prueba/main/Logo_Real_Madrid.svg)
-
 </p>
 
 <p align="justify">
