@@ -2,7 +2,7 @@
 <h1 align="center">Bienvenido a "Real Madrid Library"</h1>
 </p>
 
-![](https://raw.githubusercontent.com/NathanaelPerez/prueba/main/real-madrid-log0-png-6.png)
+![](https://raw.githubusercontent.com/NathanaelPerez/prueba/main/real-madrid-logo-png-6.png)
 
 <p align="justify">
   Este es un repositorio de una libreria de distintos elementos que siguen la tematica de los colores del Real Madir C.F.  , en este repositorio encontraras una coleccion de elementos basicos de diseño web  y tambien algunos elementos utilitarios que se pueden implementar en una web.
