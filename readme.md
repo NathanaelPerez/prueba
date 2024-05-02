@@ -3,7 +3,7 @@
 </p>
 
 
-  ![center](https://raw.githubusercontent.com/NathanaelPerez/prueba/main/real-madrid-logo-png-6.png)
+  ![align="center"](https://raw.githubusercontent.com/NathanaelPerez/prueba/main/real-madrid-logo-png-6.png)
 
 
 <p align="justify">
