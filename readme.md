@@ -12,9 +12,7 @@
 
   <h1 align="center">Real Madrid Library</h1>
  <p align="center">
-   
     Diseño de estilo específicamente diseñado para la librería del Real Madrid, facilitando un desarrollo web más rápido y sencillo para los aficionados y seguidores     del club.
-    
    <br>
 
    
