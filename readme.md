@@ -22,6 +22,9 @@
 
   ## RM Library
   Para empezar a utilizar nuestra libreria puedes dirigirte a nuestra rama Main de ahi verificar las diferentes ramas para las diferentes clases y elementos que se crearon en nuestra libreria!!!
+
+  ## Diferentes componentes que posee nuestra libreria
+  - Botones
   
 </body>
 </html>
