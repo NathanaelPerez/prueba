@@ -25,6 +25,12 @@
 
   ## Diferentes componentes que posee nuestra libreria
   - Botones
+  - Formularios
+  - Tarjetas
+  - Alertas
+  - Barras de navegacion
+  - Badges
+  - Contenedores
   
 </body>
 </html>
