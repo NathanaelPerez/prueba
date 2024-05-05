@@ -10,8 +10,8 @@
   <img src="https://raw.githubusercontent.com/NathanaelPerez/prueba/main/real-madrid-logo-png-6.png" alt="Real Madrid Logo" class="center" style="margin-left:100px">
 </p>
 
-<p align="center">
-  <h1>Bienvenido a Real Madrid Library</h1>
+<p>
+  <h1 align="center">Bienvenido a Real Madrid Library</h1>
 </p>
 
 <p align="justify">
