@@ -24,7 +24,13 @@
   Para empezar a utilizar nuestra libreria puedes dirigirte a nuestra rama Main de ahi verificar las diferentes ramas para las diferentes clases y elementos que se crearon en nuestra libreria!!!
 
   ## Diferentes componentes que posee nuestra libreria
-  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/Cls-Botones"> Botones</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/Cls-Botones">Botones</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/Cls-Botones">Formularios</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-cards">Tarjetas</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/Cls-Alertas2">Alertas</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-nav">Barras de navegacion</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-badges">Badges</a>
+  - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-containers">Contenedores</a>
   
 </body>
 </html>
