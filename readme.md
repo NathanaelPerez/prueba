@@ -39,5 +39,16 @@ Las opciones que tenemos disponibles para acceder a nuestra libreria son:
 - [Descargando el archivo css](https://github.com/twbs/bootstrap/archive/v5.3.3.zip)
 - Clonando el repositorio: `git clone https://github.com/LuisCruz29/New_Bootstrap_Library.git`
 - [Accediendo a nuestro repositorio](https://github.com/LuisCruz29/New_Bootstrap_Library.git)
+
+## Que contiene nuestra libreria
+
+Nuestra libreria contiene elementos como Botones de diferentes estilos, Formularios de distintos diseños, Tarjetas , Alertas , Barras de navegacion o mejor conocido como nav-bar , Badges, y los contenedores recordando que cada uno de estos elementos cada uno con diferentes estilos o diseños, pero nuestra libreria no solo contiene eso si no que tambien tiene clases utilitarias como las siguientes:
+- Modificar tamaño, grosor, color o tipo de texto
+- Crear sombras a elementos
+- Crear margenes, paddings, o bordes a los elementos
+- Mover los elementos en pantallas
+- Redondear elementos
+- Ocultar elementos
+- Distintos colores de los fondos de los elementos
 </body>
 </html>
