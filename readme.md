@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/NathanaelPerez/prueba/main/real-madrid-logo-png-6.png" alt="Real Madrid Logo" class="center" style="margin-left:100px">
 </p>
 
-  <h1 align="center">Real Madrid Library</h1>
+  <h1 align="center" font-family="arial">Real Madrid Library</h1>
 
 <p align="justify">
   Este es un repositorio de una libreria de distintos elementos que siguen la tematica de los colores del Real Madrid C.F., en este repositorio encontraras una coleccion de elementos basicos de diseño web y tambien algunos elementos utilitarios que se pueden implementar en una web.
