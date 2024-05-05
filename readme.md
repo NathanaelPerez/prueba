@@ -31,6 +31,13 @@
   - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-nav">Barras de navegacion</a>
   - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-badges">Badges</a>
   - <a href="https://github.com/LuisCruz29/New_Bootstrap_Library/tree/cls-containers">Contenedores</a>
-  
+
+  ## Formas de iniciar o acceder a nuestra libreria
+
+Las opciones que tenemos disponibles para acceder a nuestra libreria son:
+
+- [Descargando el archivo css](https://github.com/twbs/bootstrap/archive/v5.3.3.zip)
+- Clonando el repositorio: `git clone https://github.com/LuisCruz29/New_Bootstrap_Library.git`
+- [Accediendo a nuestro repositorio](https://github.com/LuisCruz29/New_Bootstrap_Library.git)
 </body>
 </html>
