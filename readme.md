@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .center {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%; /* You can adjust the width as needed */
-    }
-  </style>
+
 </head>
 <body>
 
