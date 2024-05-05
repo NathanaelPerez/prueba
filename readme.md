@@ -41,7 +41,7 @@ Las opciones que tenemos disponibles para acceder a nuestra libreria son:
 - [Accediendo a nuestro repositorio](https://github.com/LuisCruz29/New_Bootstrap_Library.git)
 
 ## Que contiene nuestra libreria
-<p>
+<p align="justify">
 Nuestra libreria contiene elementos como Botones de diferentes estilos, Formularios de distintos diseños, Tarjetas , Alertas , Barras de navegacion o mejor conocido como nav-bar , Badges, y los contenedores recordando que cada uno de estos elementos cada uno con diferentes estilos o diseños, pero nuestra libreria no solo contiene eso si no que tambien tiene clases utilitarias como las siguientes:
 </p>
 
