@@ -17,10 +17,11 @@
    <br>
    <a href="https://github.com/LuisCruz29/New_Bootstrap_Library"><strong>Repositorio de nuestra libreria»</strong></a>
 
-   
-
-   
  </p>
 
+
+  ## RM Library
+  Para empezar a utilizar nuestra libreria puedes dirigirte a nuestra rama Main de ahi verificar las diferentes ramas para las diferentes clases y elementos que se crearon en nuestra libreria!!!
+  
 </body>
 </html>
